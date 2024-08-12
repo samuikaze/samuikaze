@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD033 -->
-# SamuiKaze
+# 寒風 / SamuiKaze
 
 ## 👋 Hi there
 
